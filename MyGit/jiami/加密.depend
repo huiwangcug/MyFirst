@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521380243 source:f:\物联网安全\加密\main.cpp
+	<iostream>
+	<string>
+
