@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521384342 source:f:\物联网安全\解密\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
