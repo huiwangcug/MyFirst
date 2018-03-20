@@ -978,6 +978,7 @@ calf      n.小牛，腿肚子
 calibration      n.刻度，核定
 call      v.叫，称为，打电话
 calm      adj.宁静的，镇静的
+comeback  v.回归
 calmly      adv.平静地，沉着地
 calorie      n.热卡，卡路里
 camel      n.骆驼
@@ -1251,8 +1252,7 @@ club      n.俱乐部，会，棍棒
 clue      n.线索
 clumsy      adj.笨拙的，愚蠢的
 cluster      n.群，串
-clutch      v.
-n.抓紧
+clutch      v.n.抓紧
 c/o      v.(缩)请转交...
 coach      n.客车，教练
 coal      n.煤

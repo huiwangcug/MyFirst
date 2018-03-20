@@ -22,9 +22,9 @@ int main()
     {
         if(str[i]!=' ')
         {
-            str[i]-=96;
+            str[i]-=97;
             str[i]=(str[i]+3)%26;
-            str[i]+=96;
+            str[i]+=97;
             cout<<str[i];
         }
         else
